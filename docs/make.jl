@@ -28,4 +28,4 @@ makedocs(;
     doctest=false,
 )
 
-deploydocs(; repo="github.com/TuringLang/DynamicPPL.jl.git", push_preview=true)
+deploydocs(; repo="github.com/jitendravjh/DynamicPPL.jl.git", push_preview=true)
